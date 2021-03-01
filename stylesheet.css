@@ -1,0 +1,36 @@
+html {
+  font-family: "Helvetica Neue", Helvetica, Arial, FreeSans, sans-serif;
+  font-size: 13px;
+  font-weight: normal;
+  line-height: 18px;
+  color: #59636D;
+}
+
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
+h2 {
+  font-size: 17px;
+  font-weight: bold;
+  line-height: 21px;
+  padding-top: 21px;
+}
+
+p {
+  line-height: 19px;
+  font-size: 13px;
+  padding-top: 11px;
+  margin-bottom: 9px;
+}
+
+h2+p, h3+p {
+    padding-top: 5px;
+}
+
+.container {
+  max-width: 740px;
+  margin: 0 auto;
+  padding: 20px;
+}
