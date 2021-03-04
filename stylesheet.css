@@ -34,3 +34,8 @@ h2+p, h3+p {
   margin: 0 auto;
   padding: 20px;
 }
+
+a {
+  cursor:pointer;
+  color: #02B085;
+}
